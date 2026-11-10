@@ -1,0 +1,24 @@
+@font-face{font-display:block;font-family:"bootstrap-icons";src:url("bootstrap-icons.woff2") format("woff2")}
+.bi::before,[class*=" bi-"]::before,[class^=bi-]::before{display:inline-block;font-family:bootstrap-icons!important;font-style:normal;font-weight:400!important;font-variant:normal;text-transform:none;line-height:1;vertical-align:-.125em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.bi-shop::before{content:"\f543"}
+.bi-list::before{content:"\f479"}
+.bi-geo-alt::before{content:"\f3e8"}
+.bi-clock::before{content:"\f293"}
+.bi-telephone::before{content:"\f5c1"}
+.bi-star-fill::before{content:"\f586"}
+.bi-check-circle-fill::before{content:"\f26a"}
+.bi-chat-left-text::before{content:"\f252"}
+.bi-bag::before{content:"\f179"}
+.bi-x-lg::before{content:"\f659"}
+.bi-chevron-left::before{content:"\f284"}
+.bi-chevron-right::before{content:"\f285"}
+.bi-chevron-down::before{content:"\f282"}
+.bi-envelope::before{content:"\f32f"}
+.bi-facebook::before{content:"\f344"}
+.bi-box-arrow-up-right::before{content:"\f1c5"}
+.bi-award::before{content:"\f154"}
+.bi-basket::before{content:"\f180"}
+.bi-cake2::before{content:"\f6ed"}
+.bi-people::before{content:"\f4d0"}
+.bi-house-heart::before{content:"\f776"}
+.bi-sunrise::before{content:"\f5a5"}
